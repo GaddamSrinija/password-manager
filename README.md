@@ -22,3 +22,4 @@ user registration, login, password strength checking, and persistent storage usi
    -Display all stored accounts
    
    -Secure logout with auto-save
+   
