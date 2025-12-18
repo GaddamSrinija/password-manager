@@ -4,6 +4,7 @@ user registration, login, password strength checking, and persistent storage usi
  Features :
 
    -User Registration & Login
+   
    -Password Strength Checker (Weak / Medium / Strong)
    -Email Validation for Gmail/Email accounts
    -Add new account credentials
